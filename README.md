@@ -15,3 +15,5 @@ Both folders contain similar files:
 - **convert.py** (or **convert_ani1x** and **convert_ani1ccx.py**) prepare the data for training
 - **main.py** is the main script from which the training is initiated
 
+
+The folder **structures** has all the same scripts as **ani1ccx** with the addition to **egnn.py** to adjust for periodic boundaries of crystal structures
