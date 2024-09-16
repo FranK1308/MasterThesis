@@ -1,6 +1,8 @@
 # Diplomski
 Codes used in my master thesis
 
+**requirements.tx** holds all the packages needed to run the code
+
 **Removing_self_energies.py** is a script that strips the energy of molecules down so only the bonding energy remains.
 
 The folder **"ani1ccx"** contains all the necessary codes to train the neural network with only one type of data.
