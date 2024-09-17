@@ -12,7 +12,7 @@ The folder **"comb"** contains all the necessary codes to train the neural netwo
 Both folders contain similar files:
 
 - **egnn.py** is the implementation of EGNN and RFF
-- **convert.py** (or **convert_ani1x** and **convert_ani1ccx.py**) prepare the data for training
+- **convert.py** (or **convert_ani1x.py** and **convert_ani1ccx.py**) prepare the data for training
 - **main.py** is the main script from which the training is initiated
 
 
