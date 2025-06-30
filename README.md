@@ -1,4 +1,4 @@
-# Diplomski
+# Master Thesis
 Codes used in my master thesis
 
 **requirements.txt** holds all the packages needed to run the code.
